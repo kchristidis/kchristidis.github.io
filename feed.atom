@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">README</title>
+  <id>http://localhost/</id>
+  <updated>2017-07-04T00:00:00Z</updated>
+  <link href="http://localhost/" />
+  <link href="http://localhost/" rel="self" />
+  <subtitle type="text">README Atom Feed</subtitle>
+  <generator>Werkzeug</generator>
+  <entry xml:base="http://localhost/">
+    <title type="text">Hackers are painters</title>
+    <id>http://localhost/posts/hackers</id>
+    <updated>2017-07-03T00:00:00Z</updated>
+    <published>2017-07-03T00:00:00Z</published>
+    <link href="http://localhost/posts/hackers" />
+    <author>
+      <name>Kostas Christidis</name>
+    </author>
+    <content type="html">&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+&lt;head&gt;
+  &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+  &lt;meta http-equiv=&quot;Content-Style-Type&quot; content=&quot;text/css&quot; /&gt;
+  &lt;meta name=&quot;generator&quot; content=&quot;pandoc&quot; /&gt;
+  &lt;title&gt;&lt;/title&gt;
+  &lt;style type=&quot;text/css&quot;&gt;code{white-space: pre;}&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p&gt;When I finished grad school in computer science I went to art school to study painting. A lot of people seemed surprised that someone interested in computers would also be interested in painting. They seemed to think that hacking and painting were very different kinds of work– that hacking was cold, precise, and methodical, and that painting was the frenzied expression of some primal urge.&lt;span&gt;&lt;label for=&quot;sn-1&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-1&quot; class=&quot;margin-toggle&quot;/&gt;&lt;span class=&quot;sidenote&quot;&gt;This Paul Graham essay is derived from a guest lecture at Harvard, which incorporated an earlier talk at Northeastern.&lt;br /&gt;
+&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Both of these images are wrong. Hacking and painting have a lot in common. In fact, of all the different types of people I’ve known, hackers and painters are among the most alike.&lt;/p&gt;
+&lt;p&gt;What hackers and painters have in common is that they’re both makers. Along with composers, architects, and writers, what hackers and painters are trying to do is make good things. They’re not doing research per se, though if in the course of trying to make good things they discover some new technique, so much the better.&lt;span&gt;&lt;label for=&quot;sn-2&quot; class=&quot;margin-toggle&quot;&gt;&amp;#8853;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-2&quot; class=&quot;margin-toggle&quot;/&gt;&lt;span class=&quot;marginnote&quot;&gt; This is a margin note. Notice there isn’t a number preceding the note.&lt;br /&gt;
+&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hackers are painters.&lt;br /&gt;
+— Paul Graham&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I’ve never liked the term “computer science.” The main reason I don’t like it is that there’s no such thing. Computer science is a grab bag of tenuously related areas thrown together by an accident of history, like Yugoslavia. At one end you have people who are really mathematicians, but call what they’re doing computer science so they can get DARPA grants. &lt;span class=&quot;citation&quot;&gt;[&lt;a href=&quot;#ref-clark1988design&quot;&gt;1&lt;/a&gt;]&lt;/span&gt; In the middle you have people working on something like the natural history of computers– studying the behavior of algorithms for routing data through networks, for example. And then at the other extreme you have the hackers, who are trying to write interesting software, and for whom computers are just a medium of expression, as concrete is for architects or paint for painters. It’s as if mathematicians, physicists, and architects all had to be in the same department. See eq. 1.&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;eq:euler&quot;&gt;&lt;math display=&quot;block&quot; xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;π&lt;/mi&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mspace width=&quot;2.0em&quot;&gt;&lt;/mspace&gt;&lt;mo stretchy=&quot;false&quot; form=&quot;prefix&quot;&gt;(&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo stretchy=&quot;false&quot; form=&quot;postfix&quot;&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt; e^{i\pi} - 1 = 0 \qquad(1)&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Sometimes what the hackers do is called “software engineering,” but this term is just as misleading. Good software designers are no more engineers than architects are. The border between architecture and engineering is not sharply defined, but it’s there. It falls between what and how: architects decide what to do, and engineers figure out how to do it.&lt;/p&gt;
+&lt;p&gt;What and how should not be kept too separate. You’re asking for trouble if you try to decide what to do without understanding how to do it. But hacking can certainly be more than just deciding how to implement some spec. At its best, it’s creating the spec– though it turns out the best way to do that is to implement it.&lt;/p&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img src=&quot;/static/img/bruegel.jpg&quot; alt=&quot;Hackers and painters; by Pieter Bruegel.&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Hackers and painters; by Pieter Bruegel.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Perhaps one day “computer science” will, like Yugoslavia, get broken up into its component parts. That might be a good thing. Especially if it meant independence for my native land, hacking.&lt;/p&gt;
+&lt;p&gt;Bundling all these different types of work together in one department may be convenient administratively, but it’s confusing intellectually. That’s the other reason I don’t like the name “computer science.” Arguably the people in the middle are doing something like an experimental science. But the people at either end, the hackers and the mathematicians, are not actually doing science. See tbl. 1.&lt;/p&gt;
+&lt;div id=&quot;tbl:demo&quot;&gt;
+&lt;table&gt;
+&lt;caption&gt;Table 1: A demo table.&lt;/caption&gt;
+&lt;thead&gt;
+&lt;tr class=&quot;header&quot;&gt;
+&lt;th align=&quot;left&quot;&gt;Tables&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Are&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;Cool&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&quot;odd&quot;&gt;
+&lt;td align=&quot;left&quot;&gt;col 3 is&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;right-aligned&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1600&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;even&quot;&gt;
+&lt;td align=&quot;left&quot;&gt;col 2 is&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;centered&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;odd&quot;&gt;
+&lt;td align=&quot;left&quot;&gt;zebra stripes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;are neat&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;The mathematicians don’t seem bothered by this. They happily set to work proving theorems like the other mathematicians over in the math department, and probably soon stop noticing that the building they work in says “computer science” on the outside. But for the hackers this label is a problem. If what they’re doing is called science, it makes them feel they ought to be acting scientific. So instead of doing what they really want to do, which is to design beautiful software, hackers in universities and research labs feel they ought to be writing research papers.&lt;/p&gt;
+&lt;h1 id=&quot;bibliography&quot; class=&quot;unnumbered&quot;&gt;References&lt;/h1&gt;
+&lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
+&lt;div id=&quot;ref-clark1988design&quot;&gt;
+&lt;p&gt;1. Clark, D.: The design philosophy of the darpa internet protocols. ACM SIGCOMM Computer Communication Review. 18, 106–114 (1988).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+  </entry>
+  <entry xml:base="http://localhost/">
+    <title type="text">My early life</title>
+    <id>http://localhost/posts/winston</id>
+    <updated>2017-07-04T00:00:00Z</updated>
+    <published>2017-07-04T00:00:00Z</published>
+    <link href="http://localhost/posts/winston" />
+    <author>
+      <name>Kostas Christidis</name>
+    </author>
+    <content type="html">&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+&lt;head&gt;
+  &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+  &lt;meta http-equiv=&quot;Content-Style-Type&quot; content=&quot;text/css&quot; /&gt;
+  &lt;meta name=&quot;generator&quot; content=&quot;pandoc&quot; /&gt;
+  &lt;title&gt;&lt;/title&gt;
+  &lt;style type=&quot;text/css&quot;&gt;code{white-space: pre;}&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h2 id=&quot;by-winston-s.-churchill&quot;&gt;By Winston S. Churchill&lt;/h2&gt;
+&lt;p&gt;When does one first begin to remember? When do the waving lights and shadows of dawning consciousness cast their print upon the mind of a child? My earliest mem ories are Ireland. I can recall scenes and events in Ireland quite well, and sometimes dimly even, people. Yet I was born on November 30, 1874, and I left Ireland early in the year 1879. My father had gone to Ireland as secretary to his father, the Duke of Marlborough, appointed Lord-Lieu tenant by Mr. Disraeli in 1876. We lived in a house called &lt;em&gt;The Little Lodge&lt;/em&gt; about a stone’s throw from the Vice regal. Here I spent nearly three years of childhood. I have clear and vivid impressions of some events. I remem ber my grandfather, the Viceroy, unveiling the Lord Gough statue in 1878. A great black crowd, scarlet soldiers on horse back, strings pulling away a brown shiny sheet, the old Duke, the formidable grandpapa, talking loudly to the crowd. I recall even a phrase he used: ‘and with a wither ing volley he shattered the enemy’s line.’ I quite under stood that he was speaking about war and fighting and that a Volley’ meant what the black-coated soldiers (Riflemen) used to do with loud bangs so often in the Phoenix Park where I was taken for my morning walks. This, I think, is my first coherent memory.&lt;/p&gt;
+&lt;p&gt;Other events stand out more distinctly. We were to go to a pantomime. There was great excitement about it. The long- looked-for afternoon arrived. We started from the Vice regal and drove to the Castle where other children were no doubt to be picked up. Inside the Castle was a great square space paved with small oblong stones. It rained. It nearly always rained just as it does now. People came out of the doors of the Castle, and there seemed to be much stir. Then we were told we could not go to the pantomime be cause the theatre had been burned down. All that was found of the manager was the keys that had been in his pocket. We were promised as a consolation for not going to the pantomime to go next day and see the ruins of the building. I wanted very much to see the keys, but this request does not seem to have been well received.&lt;/p&gt;
+&lt;p&gt;In one of these years we paid a visit to Emo Park, the seat of Lord Portarlington, who was explained to me as a sort of uncle. Of this place I can give very clear descrip tions, though I have never been there since I was four or four and a half. The central point in my memory is a tall white stone tower which we reached after a considerable drive. I was told it had been blown up by Oliver Cromwell. I understood definitely that he had blown up all sorts of things and was therefore a very great man.&lt;/p&gt;
+&lt;p&gt;My nurse, Mrs. Everest, was nervous about the Fenians. I gathered these were wicked people and there was no end to what they would do if they had their way. On one occa sion when I was out riding on my donkey, we thought we saw a long dark procession of Fenians approaching. I am sure now it must have been the Rifle Brigade out for a route march. But we were all very much alarmed, particularly the donkey, who expressed his anxiety by kicking. I was thrown off and had concussion of the brain. This was my first intro duction to Irish politics!&lt;/p&gt;
+&lt;p&gt;In the Phoenix Park there was a great round clump of trees with a house inside it. In this house there lived a per sonage styled the Chief Secretary or the Under Secretary, I am not clear which. But at any rate from this house there came a man called Mr. Burke. He gave me a drum. I can not remember what he looked like, but I remember the drum. Two years afterwards when we were back in England, they told me he had been murdered by the Fenians in this same Phoenix Park we used to walk about in every day. Everyone round me seemed much upset about it, and I thought how lucky it was the Fenians had not got me when I fell off the donkey.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+  </entry>
+  <entry xml:base="http://localhost/">
+    <title type="text">Speeches</title>
+    <id>http://localhost/posts/speeches</id>
+    <updated>2016-06-05T00:00:00Z</updated>
+    <published>2016-06-05T00:00:00Z</published>
+    <link href="http://localhost/posts/speeches" />
+    <author>
+      <name>Kostas Christidis</name>
+    </author>
+    <content type="html">&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+&lt;head&gt;
+  &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+  &lt;meta http-equiv=&quot;Content-Style-Type&quot; content=&quot;text/css&quot; /&gt;
+  &lt;meta name=&quot;generator&quot; content=&quot;pandoc&quot; /&gt;
+  &lt;title&gt;&lt;/title&gt;
+  &lt;style type=&quot;text/css&quot;&gt;code{white-space: pre;}&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h3 id=&quot;pericles-funeral-oration&quot;&gt;Pericles’ Funeral Oration&lt;/h3&gt;
+&lt;p&gt;I have dwelt upon the greatness of Athens&lt;span&gt;&lt;label for=&quot;sn-1&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-1&quot; class=&quot;margin-toggle&quot;/&gt;&lt;span class=&quot;sidenote&quot;&gt;This speech gives one of the best description of Athenian democracy and ancient Athens. In the speech Pericles relates the special qualities of the Athenians, redefining many traditional Greek value systems. The idea that the Athenians are able to put aside their little wants and strive for the greater good of the city is a central theme of the speech. The people of Athens submit to the laws and obey the public officials not because they have to, as in other cities, but because they want to. Athenians had thus achieved something quite unique - being both ruled and rulers at one and the same time (a first step toward democracy).&lt;br /&gt;
+&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt; because I want to show you that we are contending for a higher prize than those who enjoy none of these privileges, and to establish by manifest proof the merit of these men whom I am now commemorating. Their loftiest praise has been already spoken. For in magnifying the city I have magnified them, and men like them whose virtues made her glorious. And of how few Hellenes can it be said as of them, that their deeds when weighed in the balance have been found equal to their fame!&lt;/p&gt;
+&lt;p&gt;I believe that a death such as theirs has been the true measure of a man’s worth; it may be the first revelation of his virtues, but is at any rate their final seal. For even those who come short in other ways may justly plead the valor with which they have fought for their country; they have blotted out the evil with the good, and have benefited the state more by their public services than they have injured her by their private actions. None of these men were enervated by wealth or hesitated to resign the pleasures of life; none of them put off the evil day in the hope, natural to poverty, that a man, though poor, may one day become rich. But, deeming that the punishment of their enemies was sweeter than any of these things, and that they could fall in no nobler cause, they determined at the hazard of their lives to be honorably avenged, and to leave the rest.&lt;/p&gt;
+&lt;p&gt;They resigned to hope their unknown chance of happiness; but in the face of death they resolved to rely upon themselves alone. And when the moment came they were minded to resist and suffer, rather than to fly and save their lives; they ran away from the word of dishonor, but on the battlefield their feet stood fast, and in an instant, at the height of their fortune, they passed away from the scene, not of their fear, but of their glory.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;the-gettysburg-address&quot;&gt;The Gettysburg Address&lt;/h3&gt;
+&lt;p&gt;Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;span&gt;&lt;label for=&quot;sn-2&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-2&quot; class=&quot;margin-toggle&quot;/&gt;&lt;span class=&quot;sidenote&quot;&gt;On June 1, 1865, Senator Charles Sumner referred to the most famous speech ever given by President Abraham Lincoln. In his eulogy on the slain president, he called the Gettysburg Address a “monumental act.” He said Lincoln was mistaken that “the world will little note, nor long remember what we say here.” Rather, the Bostonian remarked, “The world noted at once what he said, and will never cease to remember it. The battle itself was less important than the speech.”&lt;br /&gt;
+&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.&lt;/p&gt;
+&lt;p&gt;But, in a larger sense, we can not dedicate — we can not consecrate — we can not hallow — this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us — that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion — that we here highly resolve that these dead shall not have died in vain — that this nation, under God, shall have a new birth of freedom — and that government of the people, by the people, for the people, shall not perish from the earth.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+  </entry>
+  <entry xml:base="http://localhost/">
+    <title type="text">Elements</title>
+    <id>http://localhost/posts/elements</id>
+    <updated>2016-03-12T00:00:00Z</updated>
+    <published>2016-03-12T00:00:00Z</published>
+    <link href="http://localhost/posts/elements" />
+    <author>
+      <name>Kostas Christidis</name>
+    </author>
+    <content type="html">&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+&lt;head&gt;
+  &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+  &lt;meta http-equiv=&quot;Content-Style-Type&quot; content=&quot;text/css&quot; /&gt;
+  &lt;meta name=&quot;generator&quot; content=&quot;pandoc&quot; /&gt;
+  &lt;title&gt;&lt;/title&gt;
+  &lt;style type=&quot;text/css&quot;&gt;code{white-space: pre;}&lt;/style&gt;
+  &lt;style type=&quot;text/css&quot;&gt;
+div.sourceCode { overflow-x: auto; }
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
+td.sourceCode { padding-left: 5px; }
+code &gt; span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code &gt; span.dt { color: #902000; } /* DataType */
+code &gt; span.dv { color: #40a070; } /* DecVal */
+code &gt; span.bn { color: #40a070; } /* BaseN */
+code &gt; span.fl { color: #40a070; } /* Float */
+code &gt; span.ch { color: #4070a0; } /* Char */
+code &gt; span.st { color: #4070a0; } /* String */
+code &gt; span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code &gt; span.ot { color: #007020; } /* Other */
+code &gt; span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code &gt; span.fu { color: #06287e; } /* Function */
+code &gt; span.er { color: #ff0000; font-weight: bold; } /* Error */
+code &gt; span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+code &gt; span.cn { color: #880000; } /* Constant */
+code &gt; span.sc { color: #4070a0; } /* SpecialChar */
+code &gt; span.vs { color: #4070a0; } /* VerbatimString */
+code &gt; span.ss { color: #bb6688; } /* SpecialString */
+code &gt; span.im { } /* Import */
+code &gt; span.va { color: #19177c; } /* Variable */
+code &gt; span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code &gt; span.op { color: #666666; } /* Operator */
+code &gt; span.bu { } /* BuiltIn */
+code &gt; span.ex { } /* Extension */
+code &gt; span.pp { color: #bc7a00; } /* Preprocessor */
+code &gt; span.at { color: #7d9029; } /* Attribute */
+code &gt; span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code &gt; span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code &gt; span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code &gt; span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p&gt;This, is a paragraph with &lt;code&gt;code&lt;/code&gt;, &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italics&lt;/em&gt;, a numbered margin note.&lt;span&gt;&lt;label for=&quot;sn-1&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-1&quot; class=&quot;margin-toggle&quot;/&gt;&lt;span class=&quot;sidenote&quot;&gt;The note. E.g.: &lt;a href=&quot;#&quot;&gt;a link&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;jQuery applies a &lt;code&gt;newthought&lt;/code&gt; span in the first word of the first paragraph element of each post.&lt;span&gt;&lt;label for=&quot;sn-2&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-2&quot; class=&quot;margin-toggle&quot;/&gt;&lt;span class=&quot;sidenote&quot;&gt;Generated by pure markdown.&lt;br /&gt;
+&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;h1&quot;&gt;H1&lt;/h2&gt;
+&lt;h3 id=&quot;h2&quot;&gt;H2&lt;/h3&gt;
+&lt;h4 id=&quot;h3&quot;&gt;H3&lt;/h4&gt;
+&lt;h5 id=&quot;h4&quot;&gt;H4&lt;/h5&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel ullamcorper felis. Phasellus &lt;a href=&quot;#&quot;&gt;tincidunt&lt;/a&gt; quam vel tellus vestibulum, vitae aliquet neque malesuada. Sed &lt;a href=&quot;#&quot;&gt;finibus mauris&lt;/a&gt; non mi semper, vitae imperdiet dui maximus. Proin sit amet mi venenatis, semper orci eu, ornare mauris. Morbi erat augue, &lt;a href=&quot;#&quot;&gt;scelerisque&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;eget&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;pharetra&lt;/a&gt; sed, fringilla ut leo. Etiam ut arcu nec massa bibendum lobortis ac eu justo. Proin sit amet sagittis est.&lt;span&gt;&lt;label for=&quot;sn-3&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-3&quot; class=&quot;margin-toggle&quot;/&gt;&lt;span class=&quot;sidenote&quot;&gt;Another note.&lt;br /&gt;
+&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;sourceCode&quot;&gt;&lt;pre class=&quot;sourceCode python&quot;&gt;&lt;code class=&quot;sourceCode python&quot;&gt;&lt;span class=&quot;co&quot;&gt;# a code block with syntax highlighting&lt;/span&gt;
+&lt;span class=&quot;kw&quot;&gt;def&lt;/span&gt; hello():
+    &lt;span class=&quot;bu&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;st&quot;&gt;&amp;quot;world&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Unordered list&lt;/li&gt;
+&lt;li&gt;Few&lt;/li&gt;
+&lt;li&gt;Items&lt;/li&gt;
+&lt;li&gt;To check out&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel ullamcorper felis. Phasellus tincidunt quam vel tellus vestibulum, vitae aliquet neque malesuada. Sed finibus mauris non mi semper, vitae imperdiet dui maximus. Proin sit amet mi venenatis, semper orci eu, ornare mauris. Morbi erat augue, scelerisque eget pharetra sed, fringilla ut leo. Etiam ut arcu nec massa bibendum lobortis ac eu justo. Proin sit amet sagittis est.&lt;span&gt;&lt;label for=&quot;sn-4&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-4&quot; class=&quot;margin-toggle&quot;/&gt;&lt;span class=&quot;sidenote&quot;&gt;An explainer.&lt;br /&gt;
+&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt; An academic bibliography reference. &lt;span class=&quot;citation&quot;&gt;[&lt;a href=&quot;#ref-wilson2017good&quot;&gt;1&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A code block.&lt;/p&gt;
+&lt;div class=&quot;sourceCode&quot;&gt;&lt;pre class=&quot;sourceCode python&quot;&gt;&lt;code class=&quot;sourceCode python&quot;&gt;&lt;span class=&quot;im&quot;&gt;import&lt;/span&gt; re
+
+var &lt;span class=&quot;op&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;va&quot;&gt;True&lt;/span&gt; &lt;span class=&quot;co&quot;&gt;# Comment&lt;/span&gt;
+
+&lt;span class=&quot;cf&quot;&gt;for&lt;/span&gt; test_string &lt;span class=&quot;kw&quot;&gt;in&lt;/span&gt; [&lt;span class=&quot;st&quot;&gt;&amp;#39;555-1212&amp;#39;&lt;/span&gt;, &lt;span class=&quot;st&quot;&gt;&amp;#39;ILL-EGAL&amp;#39;&lt;/span&gt;]:
+  &lt;span class=&quot;cf&quot;&gt;if&lt;/span&gt; re.match(&lt;span class=&quot;vs&quot;&gt;r&amp;#39;^\d&lt;/span&gt;&lt;span class=&quot;sc&quot;&gt;{3}&lt;/span&gt;&lt;span class=&quot;vs&quot;&gt;-\d&lt;/span&gt;&lt;span class=&quot;sc&quot;&gt;{4}&lt;/span&gt;&lt;span class=&quot;vs&quot;&gt;$&amp;#39;&lt;/span&gt;, test_string):
+    &lt;span class=&quot;bu&quot;&gt;print&lt;/span&gt; test_string, &lt;span class=&quot;st&quot;&gt;&amp;#39;is a valid US local phone number&amp;#39;&lt;/span&gt;
+  &lt;span class=&quot;cf&quot;&gt;else&lt;/span&gt;:
+    &lt;span class=&quot;bu&quot;&gt;print&lt;/span&gt; test_string, &lt;span class=&quot;st&quot;&gt;&amp;#39;rejected&amp;#39;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol style=&quot;list-style-type: decimal&quot;&gt;
+&lt;li&gt;Ordered list&lt;/li&gt;
+&lt;li&gt;Few&lt;/li&gt;
+&lt;li&gt;Items&lt;/li&gt;
+&lt;li&gt;To check out&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Paragraph with “smart quotes.” &lt;u&gt;Underlined&lt;/u&gt; text.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&quot;header&quot;&gt;
+&lt;th align=&quot;left&quot;&gt;Tables&lt;/th&gt;
+&lt;th&gt;Are&lt;/th&gt;
+&lt;th&gt;Cool&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&quot;odd&quot;&gt;
+&lt;td align=&quot;left&quot;&gt;col 1 is&lt;/td&gt;
+&lt;td&gt;left-aligned&lt;/td&gt;
+&lt;td&gt;$1600&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;even&quot;&gt;
+&lt;td align=&quot;left&quot;&gt;col 2 is&lt;/td&gt;
+&lt;td&gt;centered&lt;/td&gt;
+&lt;td&gt;$12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;odd&quot;&gt;
+&lt;td align=&quot;left&quot;&gt;col 3 is&lt;/td&gt;
+&lt;td&gt;right-aligned&lt;/td&gt;
+&lt;td&gt;$1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel ullamcorper felis. Phasellus tincidunt quam vel tellus vestibulum, vitae aliquet neque malesuada. Sed finibus mauris non mi semper, vitae imperdiet dui maximus.&lt;span&gt;&lt;label for=&quot;sn-5&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-5&quot; class=&quot;margin-toggle&quot;/&gt;&lt;span class=&quot;sidenote&quot;&gt;Test!&lt;br /&gt;
+&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt; Proin sit amet mi venenatis, semper orci eu, ornare mauris. Morbi erat augue, scelerisque eget pharetra sed, fringilla ut leo. Etiam ut arcu nec massa bibendum lobortis ac eu justo. Proin sit amet sagittis est. fig. 1&lt;/p&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img src=&quot;/static/img/figure1.png&quot; title=&quot;An image.&quot; alt=&quot;Figure 1: A note about the image.&quot; id=&quot;fig:test&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Figure 1: A note about the image.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel ullamcorper felis. Phasellus tincidunt quam vel tellus vestibulum, vitae aliquet neque malesuada. Sed finibus mauris non mi semper, vitae imperdiet dui maximus. Proin sit amet mi venenatis, semper orci eu, ornare mauris. Morbi erat augue, scelerisque eget pharetra sed, fringilla ut leo. Etiam ut arcu nec massa bibendum lobortis ac eu justo. Proin sit amet sagittis est.&lt;/p&gt;
+&lt;h1 id=&quot;bibliography&quot; class=&quot;unnumbered&quot;&gt;References&lt;/h1&gt;
+&lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
+&lt;div id=&quot;ref-wilson2017good&quot;&gt;
+&lt;p&gt;1. Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., Teal, T.K.: Good enough practices in scientific computing. PLOS Computational Biology. 13, e1005510 (2017).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+  </entry>
+</feed>
